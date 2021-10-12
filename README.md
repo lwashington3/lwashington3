@@ -1,7 +1,7 @@
-<div><h1 align="center">Len Washington III</h1>
+<div><h1 align="center">Len Washington</h1>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lwashingtoniii27&show_icons=true&count_private=true&show_border=false&include_all_commits=true&hide=contribs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lwashington3&show_icons=true&count_private=true&show_border=false&include_all_commits=true&hide=contribs" />
 </p>
 
 <p align="center">
