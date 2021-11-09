@@ -1,7 +1,9 @@
-<div><h1 align="center">Len Washington</h1>
+<div><h1 align="center">Len Washington III</h1>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lwashington3&show_icons=true&count_private=true&show_border=false&include_all_commits=true&hide=contribs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lwashington3&show_icons=true&count_private=true&show_border=false&include_all_commits=true&theme=tokyonight&custom_title=Len Washington III's GitHub Stats" alt="https://github.com/anuraghazra/github-readme-stats"/>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwashington3&layout=compact&theme=tokyonight" alt="https://github.com/anuraghazra/github-readme-stats"/>
 </p>
 
 <p align="center">
