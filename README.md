@@ -1,12 +1,10 @@
-<div style="text-align: center;"><h1>Len Washington III</h1></div>
-<div style="text-align: center;"><h2>Class of 2025</h2></div>
-<div style="text-align: center;"><h3>Major: Artificial Intelligence</h3></div>
+<h1 align="center">Len Washington III</h1>
+<h2 align="center">Class of 2025</h2>
+<h3 align="center">Major: Artificial Intelligence</h3>
 
-<div style="text-align: center;">
-	<img src="https://github-readme-stats.vercel.app/api?username=lwashington3&show_icons=true&count_private=true&show_border=false&include_all_commits=true&theme=tokyonight&custom_title=Len Washington III's GitHub Stats" alt="https://github.com/anuraghazra/github-readme-stats"/>
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwashington3&layout=compact&theme=tokyonight" alt="https://github.com/anuraghazra/github-readme-stats"/>
-</div>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lwashington3&show_icons=true&count_private=true&show_border=false&include_all_commits=true&theme=tokyonight&custom_title=Len Washington III's GitHub Stats" alt="https://github.com/anuraghazra/github-readme-stats"/></center>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwashington3&layout=compact&theme=tokyonight" alt="https://github.com/anuraghazra/github-readme-stats"/></p>
 
 <div style="text-align: center;">I'm Len. My pronouns are he/him/his. I started coding in the fall of 2018, and it's hard for me to stop.</div>
 
@@ -35,9 +33,13 @@
   </uo>
 
 <h2>Technical Skills</h2>
-- Linux
-- Raspberry Pi, Arduino and other Microcontrollers
+<ul>
+	<li>Linux</li>
+	<li>Raspberry Pi, Arduino and other Microcontrollers</li>
+</ul>
 
 <h2>Currently Learning</h2>
-- Database Organization
-- Networking
+<ul>
+<li>Database Organization</li>
+<li>Networking</li>
+</ul>
