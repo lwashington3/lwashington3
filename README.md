@@ -24,6 +24,8 @@
 		<li>C++</li>
 		<li>JavaScript</li>
 		<li>HTML</li>
+		<li>PHP</li>
+		<li>R</li>
 	</uo>
 
 <h2>Languages I Plan to Learn</h2>
@@ -36,10 +38,13 @@
 <ul>
 	<li>Linux</li>
 	<li>Raspberry Pi, Arduino and other Microcontrollers</li>
+	<li>Regex</li>
+	<li>Some Machine Learning Libraries (Tensorflow is my favorite)</li>
 </ul>
 
 <h2>Currently Learning</h2>
 <ul>
-<li>Database Organization</li>
-<li>Networking</li>
+	<li>Database Organization</li>
+	<li>Networking</li>
+	<li>LaTex</li>
 </ul>
