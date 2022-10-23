@@ -2,7 +2,7 @@
 <h2 align="center">Class of 2025</h2>
 <h3 align="center">Major: Artificial Intelligence</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lwashington3&show_icons=true&count_private=true&show_border=false&include_all_commits=true&theme=tokyonight&custom_title=Len Washington III's GitHub Stats" alt="https://github.com/anuraghazra/github-readme-stats"/></center>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lwashington3&show_icons=true&count_private=true&show_border=false&include_all_commits=true&theme=tokyonight&custom_title=Len%20Washington%20III%27s%20GitHub%20Stats" alt="https://github.com/anuraghazra/github-readme-stats"/></center>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwashington3&layout=compact&theme=tokyonight" alt="https://github.com/anuraghazra/github-readme-stats"/></p>
 
