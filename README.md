@@ -1,10 +1,14 @@
 <h1 align="center">Len Washington III</h1>
-<h2 align="center">Class of 2025</h2>
-<h3 align="center">Major: Artificial Intelligence</h3>
+<h2 align="center">Class of 2026</h2>
+<h3 align="center">B.S. and M.A.S in Artificial Intelligence</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lwashington3&show_icons=true&count_private=true&show_border=false&include_all_commits=true&theme=tokyonight&custom_title=Len%20Washington%20III%27s%20GitHub%20Stats" alt="https://github.com/anuraghazra/github-readme-stats"/></center>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwashington3&layout=compact&theme=tokyonight" alt="https://github.com/anuraghazra/github-readme-stats"/></p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=lwashington3&show_icons=true&count_private=true&show_border=false&include_all_commits=true&theme=tokyonight&custom_title=Len%20Washington%20III%27s%20GitHub%20Stats" alt="https://github.com/anuraghazra/github-readme-stats"/>
+    <br>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lwashington3&theme=dark" alt="https://github-readme-streak-stats.herokuapp.com/?user=lwashington3&theme=dark"/>
+    <br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwashington3&layout=compact&theme=tokyonight" alt="https://github.com/anuraghazra/github-readme-stats"/>
+</p>
 
 <div style="text-align: center;">I'm Len. My pronouns are he/him/his. I started coding in the fall of 2018, and it's hard for me to stop.</div>
 
@@ -40,11 +44,8 @@
 	<li>Raspberry Pi, Arduino and other Microcontrollers</li>
 	<li>Regex</li>
 	<li>Some Machine Learning Libraries (Tensorflow is my favorite)</li>
-</ul>
-
-<h2>Currently Learning</h2>
-<ul>
 	<li>Database Organization</li>
 	<li>Networking</li>
-	<li>LaTex</li>
+	<li>LaTex</li>	
 </ul>
+
